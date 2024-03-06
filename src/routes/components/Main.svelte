@@ -90,6 +90,7 @@
         font-weight: bold;
         letter-spacing: 1.2px;
         font-family: "Roboto", sans-serif;
+		margin-block: 0.4em;
 	}
 
     #rectangles {
